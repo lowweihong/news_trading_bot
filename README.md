@@ -31,11 +31,11 @@ The Supra API key is already configured in the code. For production use, conside
 
 ### 3. Run the Agent
 ```bash
-python agent.py
+python full_agent.py
 ```
 
 ### 4. Access Dashboard
-Open your browser and go to: `http://localhost:5000`
+Open your browser and go to: `http://localhost:5002`
 
 ## 📊 How It Works
 
